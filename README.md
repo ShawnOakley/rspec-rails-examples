@@ -1,4 +1,4 @@
-# RSpec Rails Examples [![Build Status](https://travis-ci.org/eliotsykes/rspec-rails-examples.svg?branch=master)](https://travis-ci.org/eliotsykes/rspec-rails-examples) [![Join the chat at https://gitter.im/eliotsykes/rspec-rails-examples](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/eliotsykes/rspec-rails-examples?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# RSpec Rails Examples [![Build Status](https://travis-ci.org/ShawnOakley/rspec-rails-examples.svg?branch=master)](https://travis-ci.org/ShawnOakley/rspec-rails-examples) 
 
 > An RSpec cheatsheet in the form of a Rails app. Learn how to expertly test Rails apps from a model codebase
 
@@ -14,7 +14,7 @@ In the README below, you'll find links to some of the most useful cheatsheets an
 
 See the well-commented files in the [spec/support](spec/support) directory for walkthroughs on how to configure popular testing gems, such as DatabaseCleaner, Capybara, and FactoryGirl.
 
-Hopefully this will be of help to those of you learning RSpec and Rails. If there's anything missing you'd like to see covered in the project, please submit your request via the [issue tracker](https://github.com/eliotsykes/rspec-rails-examples/issues), I'd be happy to help &mdash; [_Eliot Sykes_](https://eliotsykes.com)
+Hopefully this will be of help to those of you learning RSpec and Rails. If there's anything missing you'd like to see covered in the project, please submit your request via the [issue tracker](https://github.com/ShawnOakley/rspec-rails-examples/issues), I'd be happy to help &mdash; 
 
 
 
@@ -287,7 +287,7 @@ CI is usually accompanied by running an application's test suite against the lat
 Travis CI configuration how-to and example:
 - [.travis.yml](.travis.yml) - Travis CI's configuration file (with instructions)
 - [Our Travis CI build!](https://travis-ci.org/eliotsykes/rspec-rails-examples)
-- Our Travis CI badge (hopefully its green): [![Build Status](https://travis-ci.org/ShawnOakley/rspec-rails-examples.svg?branch=master)](https://travis-ci.org/eliotsykes/rspec-rails-examples)
+- Our Travis CI badge (hopefully its green): [![Build Status](https://travis-ci.org/ShawnOakley/rspec-rails-examples.svg?branch=master)](https://travis-ci.org/ShawnOakley/rspec-rails-examples)
 
 ---
 
