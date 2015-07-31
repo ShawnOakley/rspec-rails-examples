@@ -287,7 +287,7 @@ CI is usually accompanied by running an application's test suite against the lat
 Travis CI configuration how-to and example:
 - [.travis.yml](.travis.yml) - Travis CI's configuration file (with instructions)
 - [Our Travis CI build!](https://travis-ci.org/eliotsykes/rspec-rails-examples)
-- Our Travis CI badge (hopefully its green): [![Build Status](https://travis-ci.org/eliotsykes/rspec-rails-examples.svg?branch=master)](https://travis-ci.org/eliotsykes/rspec-rails-examples)
+- Our Travis CI badge (hopefully its green): [![Build Status](https://travis-ci.org/ShawnOakley/rspec-rails-examples.svg?branch=master)](https://travis-ci.org/eliotsykes/rspec-rails-examples)
 
 ---
 
